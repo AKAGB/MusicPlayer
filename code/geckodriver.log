@@ -1,0 +1,89 @@
+1523695259003	geckodriver	INFO	geckodriver 0.20.1
+1523695259006	geckodriver	INFO	Listening on 127.0.0.1:37343
+1523695260012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AY6Vei6BjUeN"
+1523695260710	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1523695262550	Marionette	INFO	Listening on port 35581
+1523695262624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523696728748	geckodriver	INFO	geckodriver 0.20.1
+1523696728751	geckodriver	INFO	Listening on 127.0.0.1:57987
+1523696729759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YI4uryX8OdQx"
+1523696730296	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1523696732010	Marionette	INFO	Listening on port 43991
+1523696732072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523696764635	geckodriver	INFO	geckodriver 0.20.1
+1523696764637	geckodriver	INFO	Listening on 127.0.0.1:60609
+1523696765645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0T0wlABPuYvo"
+1523696766242	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1523696767802	Marionette	INFO	Listening on port 43185
+1523696767855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523696950555	geckodriver	INFO	geckodriver 0.20.1
+1523696950558	geckodriver	INFO	Listening on 127.0.0.1:56201
+1523696951565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ui4CBqDS8fOn"
+1523696952139	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1523696953957	Marionette	INFO	Listening on port 33097
+1523696953978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523697058337	geckodriver	INFO	geckodriver 0.20.1
+1523697058340	geckodriver	INFO	Listening on 127.0.0.1:35807
+1523697059348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.EuEQk8cLIPS3"
+*** You are running in headless mode.
+1523697059897	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1523697061534	Marionette	INFO	Listening on port 33575
+1523697061562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523697085612	geckodriver	INFO	geckodriver 0.20.1
+1523697085615	geckodriver	INFO	Listening on 127.0.0.1:43029
+1523697086622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.HJyGz2SFEHlC"
+*** You are running in headless mode.
+1523697087170	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1523697088902	Marionette	INFO	Listening on port 40477
+1523697088932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523697177584	geckodriver	INFO	geckodriver 0.20.1
+1523697177587	geckodriver	INFO	Listening on 127.0.0.1:41249
+1523697178594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.jNW6m2O9bjKH"
+*** You are running in headless mode.
+1523697179202	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1523697180902	Marionette	INFO	Listening on port 41683
+1523697181008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+[Child 19482, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-WvkEP5/firefox-58.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523697230414	geckodriver	INFO	geckodriver 0.20.1
+1523697230417	geckodriver	INFO	Listening on 127.0.0.1:34385
+1523697231425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.zZ9ecbxal6Tc"
+*** You are running in headless mode.
+1523697231979	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1523697233552	Marionette	INFO	Listening on port 40611
+1523697233634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+JavaScript warning: http://s3.music.126.net/web/s/core.js?3e631d7f509f631d37cc429044fdf933, line 94: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
